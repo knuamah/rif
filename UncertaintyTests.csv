@@ -1,4 +1,4 @@
-Query,Actual,Inferred,Uncertainty,AbsErrorProp
+Query,Actual,Inferred,Uncertainty,NormalizedAbsError
 Population of France in 2010,65027512.00,64464878.80,0.154126186,0.008652233
 Gdp per capita of Ghana in 2010,1323.10,1325.09,0.153728423,0.001504177
 Birth rate of Brazil in 2003,19.00,18.37,0.401096312,0.033027751
