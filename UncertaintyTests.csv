@@ -1,0 +1,21 @@
+Query,Actual,Inferred,Uncertainty,AbsErrorProp
+Population of France in 2010,65027512.00,64464878.80,0.154126186,0.008652233
+Gdp per capita of Ghana in 2010,1323.10,1325.09,0.153728423,0.001504177
+Birth rate of Brazil in 2003,19.00,18.37,0.401096312,0.033027751
+Urban population of UK in 2010,45931122.00,44431632.22,0.183336552,0.032646487
+Female unemployment (% of labor) of Canada in 2001,6.70,5.63,0.501709374,0.160018101
+Total population of France in 1992,58851216.00,58858657.22,0.104261868,0.000126441
+Labor force of Germany in 1990,37331150.00,39654982.21,0.21510223,0.062249146
+Total population of Europe in 1999,728934000.00,728145318.00,0.14,0.001081966
+Fertility rate of Japan in 2007,1.30,1.33,0.300338631,0.021436652
+Rural population of Zambia in 2004,5629900.00,5478387.07,0.260845812,0.026912188
+Highest urban population of countries in Africa in 2001,44948267.00,41001306.96,0.613300191,0.087811173
+Labor force of Germany in 2002,40539562.00,41071142.93,0.12509958,0.013112646
+Lowest urban population of countries in South America in 2001? (Guyana) (all 2001 facts held out),212589.00,201016.23,0.570774128,0.054437293
+What was the death rate of China in 2007?,6.93,6.85,0.200225481,0.011724387
+Male life expectancy of Demnark in 2006?,75.90,75.73,0.181034884,0.00229504
+"Male life expectancy of Demnark in 2006? (Holding out 2005,2006,2007)",75.90,75.51,0.200022294,0.005081875
+Agricultural land of Philipines in 2013,124400.00,127303.93,0.340123206,0.023343476
+Highest cereal_yield in Europe in 2001? (Belgium) Held out all 2001 data points,8218.00,8280.33,0.629922288,0.007584755
+Rural population of Argentina in 1990,4260103.00,4378218.45,0.395690122,0.027725962
+Fertility rate of South Africa in 1993,3.30,3.06,0.400316351,0.071272727
